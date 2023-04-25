@@ -1,0 +1,24 @@
+body {
+    color: slategray;
+}
+
+.search-bar {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.h2 {
+    color: black;
+}
+
+.book {
+    margin-top: 1rem;
+}
+
+.container-fluid {
+    text-align: center;
+}
+
+.card-footer {
+    text-align: center;
+}
